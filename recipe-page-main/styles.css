@@ -85,6 +85,15 @@ hr{
   margin: 20px 0;
 }
 
+ol li{
+  color: hsl(30, 10%, 34%);
+}
+
+ol li span{
+  font-weight: 700;
+  color: hsl(24, 5%, 18%);
+}
+
 p.nutrition{
   margin: 12px 0;
 }
